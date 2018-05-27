@@ -1,4 +1,5 @@
 var animal = 'dog'
+var myAnum
 
 function myAnimal() {
   return animal
